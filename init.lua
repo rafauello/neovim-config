@@ -263,6 +263,14 @@ require('lazy').setup({
     end,
   },
 
+  -- comment
+  {
+    'numToStr/Comment.nvim',
+    opts = {
+      -- add any options here
+    },
+  },
+
   -- neoscroll
   {
     'karb94/neoscroll.nvim',
